@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void evenOrNot(){
-        assertTrue(SkillDemo.evenOrNot(5));
+        assertTrue(SkillDemo.evenOrNot(6));
     }
 }
